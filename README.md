@@ -1,2 +1,7 @@
 # Module-Of-Pytorch
-从dataset，到nn，到损失函数，优化算法等等各个模型的使用方法
+# the following list about torch
+nn ： torch.nn
+optim：torch.optim
+# the following list about learning
+practice: ML or DL problem
+
